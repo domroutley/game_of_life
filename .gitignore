@@ -1,0 +1,7 @@
+# Binaries
+*.out
+*.pyc
+
+# Packages
+requirements.txt
+**/node_modules/**
